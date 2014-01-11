@@ -1,8 +1,18 @@
 var classofx_1_1_i_o_1_1_directory_watcher_manager =
 [
     [ "DirectoryEvent", "classofx_1_1_i_o_1_1_directory_watcher_manager.html#abe1e02417b96e3b3dc2786ca12d462fc", null ],
-    [ "DirectoryEventMask", "classofx_1_1_i_o_1_1_directory_watcher_manager.html#a1915b24dcd9f3f6973fd89196ea36a50", null ],
-    [ "DirectoryEventType", "classofx_1_1_i_o_1_1_directory_watcher_manager.html#a46aadf9689f2e1f4c172bcf0ff6a6769", null ],
+    [ "DEFAULT_SCAN_INTERVAL", "classofx_1_1_i_o_1_1_directory_watcher_manager.html#a5da98c0b7b415aff458d9b0331307750a555fbceb75a7741b201acb8badb4c706", null ],
+    [ "DirectoryEventMask", "classofx_1_1_i_o_1_1_directory_watcher_manager.html#a1915b24dcd9f3f6973fd89196ea36a50", [
+      [ "FILTER_ENABLE_ALL", "classofx_1_1_i_o_1_1_directory_watcher_manager.html#a1915b24dcd9f3f6973fd89196ea36a50a27d102ddec59f84f79993e8add02a218", null ],
+      [ "FILTER_DISABLE_ALL", "classofx_1_1_i_o_1_1_directory_watcher_manager.html#a1915b24dcd9f3f6973fd89196ea36a50ac6f6c781bce40d59a0d3694af66ee614", null ]
+    ] ],
+    [ "DirectoryEventType", "classofx_1_1_i_o_1_1_directory_watcher_manager.html#a46aadf9689f2e1f4c172bcf0ff6a6769", [
+      [ "ITEM_ADDED", "classofx_1_1_i_o_1_1_directory_watcher_manager.html#a46aadf9689f2e1f4c172bcf0ff6a6769ab51f24b9572478a69985c02478c03ec3", null ],
+      [ "ITEM_REMOVED", "classofx_1_1_i_o_1_1_directory_watcher_manager.html#a46aadf9689f2e1f4c172bcf0ff6a6769ab23bc351c244005b6c2b22839ac38e63", null ],
+      [ "ITEM_MODIFIED", "classofx_1_1_i_o_1_1_directory_watcher_manager.html#a46aadf9689f2e1f4c172bcf0ff6a6769abaf8fcafa4f18e3814b0e9f24cfae460", null ],
+      [ "ITEM_MOVED_FROM", "classofx_1_1_i_o_1_1_directory_watcher_manager.html#a46aadf9689f2e1f4c172bcf0ff6a6769a1584db9abfdb46d7bd5806db902aebb1", null ],
+      [ "ITEM_MOVED_TO", "classofx_1_1_i_o_1_1_directory_watcher_manager.html#a46aadf9689f2e1f4c172bcf0ff6a6769afdec646754880418ab8f8cd8b65e94f5", null ]
+    ] ],
     [ "DirectoryWatcherManager", "classofx_1_1_i_o_1_1_directory_watcher_manager.html#a49abaf256de3467cfad811e9c565f053", null ],
     [ "~DirectoryWatcherManager", "classofx_1_1_i_o_1_1_directory_watcher_manager.html#a9295793ff333d77c5dc882a61a50efa9", null ],
     [ "addPath", "classofx_1_1_i_o_1_1_directory_watcher_manager.html#ac9626074b196883234f8b926291842f5", null ],
