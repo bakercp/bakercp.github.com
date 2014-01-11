@@ -1,0 +1,28 @@
+var struct_a_v_codec =
+[
+    [ "capabilities", "struct_a_v_codec.html#af51f7ff3dac8b730f46b9713e49a2518", null ],
+    [ "channel_layouts", "struct_a_v_codec.html#a1d4c5152626bbd1f575a3e0014cb59e7", null ],
+    [ "close", "struct_a_v_codec.html#a4c37aedc6221fd3342d20da639199bff", null ],
+    [ "decode", "struct_a_v_codec.html#a9b499bef3f761d744d848b2f8ce41f50", null ],
+    [ "defaults", "struct_a_v_codec.html#a16e4be8873bd93ac84c7b7d86455d518", null ],
+    [ "encode2", "struct_a_v_codec.html#a77d3f51b26f7e32894d5d3adf28cd0d7", null ],
+    [ "encode_sub", "struct_a_v_codec.html#a43e5db74e3cb68dfe025390f99114234", null ],
+    [ "flush", "struct_a_v_codec.html#a988b31fb18ff269f49bb06a792fe48bc", null ],
+    [ "id", "struct_a_v_codec.html#a01a53d07936f4c7ee280444793b6967b", null ],
+    [ "init", "struct_a_v_codec.html#a3889d5db28d56089e9debfec3e9f065f", null ],
+    [ "init_static_data", "struct_a_v_codec.html#a9f2ec22903b64381c7126fcfa28ef24f", null ],
+    [ "init_thread_copy", "struct_a_v_codec.html#ab62dd9bb53e1561be5b1354d50fb5158", null ],
+    [ "long_name", "struct_a_v_codec.html#acb4afcfce3b6541ed70aa7f21d507422", null ],
+    [ "max_lowres", "struct_a_v_codec.html#ad72e40270f3b005d378e5949b4e670e8", null ],
+    [ "name", "struct_a_v_codec.html#ad3daa3e729850b573c139a83be8938ca", null ],
+    [ "next", "struct_a_v_codec.html#ab423f961a2ce8ef9442010909a29dbf5", null ],
+    [ "pix_fmts", "struct_a_v_codec.html#ac2b97bd3c19686025e1b7d577329c250", null ],
+    [ "priv_class", "struct_a_v_codec.html#a4ded9f7ec1fa1a73ea3e831428c100fa", null ],
+    [ "priv_data_size", "struct_a_v_codec.html#aa86c803fcfc0ebb569b15d4645d0e796", null ],
+    [ "profiles", "struct_a_v_codec.html#ac832350f2bac582fe3d174e2e3b1eb5e", null ],
+    [ "sample_fmts", "struct_a_v_codec.html#aac19f4c45370f715412ad5c7b78daacf", null ],
+    [ "supported_framerates", "struct_a_v_codec.html#a5cc75a0ab41697df21a8cd649662190c", null ],
+    [ "supported_samplerates", "struct_a_v_codec.html#aee7a194f1c3251958d3dabed3fa8148e", null ],
+    [ "type", "struct_a_v_codec.html#ab539ca86026d043803c24ba06fa84197", null ],
+    [ "update_thread_context", "struct_a_v_codec.html#af25cdaf7b0b732121f8fb79cba84aa18", null ]
+];

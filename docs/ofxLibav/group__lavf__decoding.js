@@ -1,0 +1,36 @@
+var group__lavf__decoding =
+[
+    [ "AVInputFormat", "struct_a_v_input_format.html", [
+      [ "codec_tag", "struct_a_v_input_format.html#a88738bb721c18df24fb4207aa2d4924a", null ],
+      [ "extensions", "struct_a_v_input_format.html#ae692e27e532f664f26e2501967b09eab", null ],
+      [ "flags", "struct_a_v_input_format.html#a1b30f6647d0c2faf38ba8786d7c3a838", null ],
+      [ "long_name", "struct_a_v_input_format.html#a1f67064a527941944017f1dfe65d3aa9", null ],
+      [ "name", "struct_a_v_input_format.html#a850db3eb225e22b64f3304d72134ca0c", null ],
+      [ "next", "struct_a_v_input_format.html#ad18d8584bb0648f53a7980be8f368164", null ],
+      [ "priv_class", "struct_a_v_input_format.html#afaac829559ad9e07618c01a51d8a4c5f", null ],
+      [ "priv_data_size", "struct_a_v_input_format.html#a195b445886775084b8e075062d33f09a", null ],
+      [ "raw_codec_id", "struct_a_v_input_format.html#ac12c67e8e0b7bc2b0c26ab383d9a0c76", null ],
+      [ "read_close", "struct_a_v_input_format.html#ab8b8b1045df0b395224f8878b647df14", null ],
+      [ "read_header", "struct_a_v_input_format.html#a91a8d2bf2a85d73ae7d33a763fc9721a", null ],
+      [ "read_packet", "struct_a_v_input_format.html#a5b23ff75b9fa1a5b68fa767916d30f6f", null ],
+      [ "read_pause", "struct_a_v_input_format.html#a61b1454df23313aab4753cf92e22f0e3", null ],
+      [ "read_play", "struct_a_v_input_format.html#afa54d0deebe7300711f827eb228b46d2", null ],
+      [ "read_probe", "struct_a_v_input_format.html#a600b56b25f0a715a5eaf39d8205a9ed4", null ],
+      [ "read_seek", "struct_a_v_input_format.html#aa87eb295570be6b0995829da73add291", null ],
+      [ "read_seek2", "struct_a_v_input_format.html#a98f6fd05b43f63f8ba7ed2ce7b4d04cf", null ],
+      [ "read_timestamp", "struct_a_v_input_format.html#a108beacc3cfb783346def5184d121bd6", null ]
+    ] ],
+    [ "av_find_best_stream", "group__lavf__decoding.html#gaa6fa468c922ff5c60a6021dcac09aff9", null ],
+    [ "av_find_input_format", "group__lavf__decoding.html#ga7d2f532c6653c2419b17956712fdf3da", null ],
+    [ "av_probe_input_buffer", "group__lavf__decoding.html#ga5ef11a57aa4ed1d55703b66d59afbd0b", null ],
+    [ "av_probe_input_format", "group__lavf__decoding.html#gad8a1268228fff3aeae0aeaa99a767a24", null ],
+    [ "av_probe_input_format2", "group__lavf__decoding.html#gae8b938f6e7c3741dd27a6c171e72f33d", null ],
+    [ "av_read_frame", "group__lavf__decoding.html#ga4fdb3084415a82e3810de6ee60e46a61", null ],
+    [ "av_read_pause", "group__lavf__decoding.html#ga27db687592d99f25ccf81a3b3ee8da9c", null ],
+    [ "av_read_play", "group__lavf__decoding.html#ga7494bb63a59e79e9fe88eb1682d4d7b3", null ],
+    [ "av_seek_frame", "group__lavf__decoding.html#gaa23f7619d8d4ea0857065d9979c75ac8", null ],
+    [ "avformat_close_input", "group__lavf__decoding.html#gae804b99aec044690162b8b9b110236a4", null ],
+    [ "avformat_find_stream_info", "group__lavf__decoding.html#gad42172e27cddafb81096939783b157bb", null ],
+    [ "avformat_open_input", "group__lavf__decoding.html#ga10a404346c646e4ab58f4ed798baca32", null ],
+    [ "avformat_seek_file", "group__lavf__decoding.html#ga3b40fc8d2fda6992ae6ea2567d71ba30", null ]
+];
